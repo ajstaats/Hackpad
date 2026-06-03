@@ -14,3 +14,6 @@ Required Parts:
 Soldering Kit,
 3D Printed Case,
 a few more items that aren't listed
+
+
+AI was used for ideas and a significant amount of the code.
