@@ -6,10 +6,11 @@ A project for the Hack Club Stardance program
 <img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/c6d256e2-a47b-4a66-93eb-a9a03c765946" />
 
 Required Parts:
-1x Seeed XIAO RP2040 microcontroller
-3x Mechanical Keyboard Switches
-3x Keycaps
-4x M3x5x4mm Heatset Inserts
-4x M3x16mm Screws
-Soldering Kit
-3D Printed Case
+1x Seeed XIAO RP2040 microcontroller,
+3x Mechanical Keyboard Switches,
+3x Keycaps,
+4x M3x5x4mm Heatset Inserts,
+4x M3x16mm Screws,
+Soldering Kit,
+3D Printed Case,
+a few more items that aren't listed
