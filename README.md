@@ -21,6 +21,3 @@ AI was used for ideas and a significant amount of the code.
 
 This project will be used as a macropad for the commands ctrl+x, ctrl+c, and ctrl+v.
 I want these specific commands as they are useful for multiple projects and anything else you might need them for.
-
-
-https://drive.google.com/drive/folders/1F5vpAqF65NYiNG9WRzvcq4JqNUym3te2?usp=drive_link
